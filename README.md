@@ -1,0 +1,3 @@
+# PracticingBasics
+fIRST PROJECT FOR HTML CSS 
+I have done practice about github alsoo....
